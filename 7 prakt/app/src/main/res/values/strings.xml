@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prack7</string>
+    <string name="number">Number</string>
+    <string name="Fold">Add</string>
+    <string name="Enter_a_number">Enter a number</string>
+    <string name="Simple_cannot_be_decomposed">Simple cannot be decomposed into simple</string>
+</resources>

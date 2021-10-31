@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Практическая7</string>
+    <string name="number">Число</string>
+    <string name="Fold">Сложить</string>
+    <string name="Enter_a_number">Введите число</string>
+    <string name="Simple_cannot_be_decomposed">Простое нельзя разложить на простые</string>
+</resources>
