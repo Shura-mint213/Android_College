@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Практическая 10</string>
+    <string name="calculations">Вычисления</string>
+    <string name="cancel">Отменить</string>
+    <string name="enterNumberError">введите число от 1 до 45</string>
+</resources>

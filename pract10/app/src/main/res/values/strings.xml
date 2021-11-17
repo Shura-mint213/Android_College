@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pract 10</string>
+    <string name="calculations">Calculations</string>
+    <string name="cancel">Cancel</string>
+    <string name="enterNumberError">enter a number from 1 to 45</string>
+</resources>
