@@ -5,4 +5,7 @@
     <string name="Fold">Сложить</string>
     <string name="Enter_a_number">Введите число</string>
     <string name="Simple_cannot_be_decomposed">Простое нельзя разложить на простые</string>
+    <string name="sendText">Отпрака текста</string>
+    <string name="sendImage">Отправка изображения</string>
+    <string name="photo">Фото</string>
 </resources>

@@ -4,4 +4,7 @@
     <string name="Fold">Add</string>
     <string name="Enter_a_number">Enter a number</string>
     <string name="Simple_cannot_be_decomposed">Simple cannot be decomposed into simple</string>
+    <string name="sendText">Send text</string>
+    <string name="sendImage">Send image</string>
+    <string name="photo">Photo</string>
 </resources>
